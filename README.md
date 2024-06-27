@@ -76,7 +76,7 @@ To download and set up the dataset, follow these steps:
 
 ### Interpreting the Results
 
-- **Input (Photo) to Translated (Van Gogh)**: This pair shows how well the model can transform a normal photo into a Van Gogh-style painting.
-- **Input (Van Gogh) to Translated (Photo)**: This pair shows the reverse transformation, converting a Van Gogh painting into a photo-like image.
+- **Input (Photo) to Translated (Van Gogh)**: This images shows how well the model can transform a normal photo into a Van Gogh-style painting. [this link](https://github.com/DeF0017/Style-Transfer-using-CycleGAN/tree/main/Images_A)
+- **Input (Van Gogh) to Translated (Photo)**: This images shows the reverse transformation, converting a Van Gogh painting into a photo-like image. [this link](https://github.com/DeF0017/Style-Transfer-using-CycleGAN/tree/main/Images_B)
 
 These transformations demonstrate the model's ability to learn and apply complex artistic styles across different domains.
