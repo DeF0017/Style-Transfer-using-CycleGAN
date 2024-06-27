@@ -58,7 +58,7 @@ To download and set up the dataset, follow these steps:
 
 2. **Extract the Dataset**: Extract the dataset into the `./datasets` directory. After extracting, your directory structure should look like this:
     ```
-    ./datasets/vangogh2photo/
+    ./datasets/vangogh2photo/vangogh2photo/
         trainA/
         trainB/
         testA/
