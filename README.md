@@ -80,3 +80,15 @@ To download and set up the dataset, follow these steps:
 - **Input (Van Gogh) to Translated (Photo)**: This images shows the reverse transformation, converting a Van Gogh painting into a photo-like image. [this link](https://github.com/DeF0017/Style-Transfer-using-CycleGAN/tree/main/Images_B)
 
 These transformations demonstrate the model's ability to learn and apply complex artistic styles across different domains.
+
+## References
+
+If you use this code or find it helpful, please consider citing the following papers and resources that were instrumental in the development of the CycleGAN style transfer project:
+
+### Primary Paper
+
+- **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks**
+  - Authors: Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros
+  - Paper: [arXiv preprint arXiv:1703.10593](https://arxiv.org/abs/1703.10593)
+
+These references and resources provide the foundational knowledge and tools used in developing and understanding CycleGAN for style transfer. If you build upon this project, please acknowledge the original authors and resources accordingly.
