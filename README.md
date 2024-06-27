@@ -67,3 +67,14 @@ To download and set up the dataset, follow these steps:
     - `trainB/`: Contains training images from domain B (e.g., Van Gogh paintings).
     - `testA/`: Contains test images from domain A (e.g., photos).
     - `testB/`: Contains test images from domain B (e.g., Van Gogh paintings).
+
+## Results
+
+![Photo](./results/vangogh2photo_experiment/test_latest/images/input_A_image1.jpg)
+
+### Interpreting the Results
+
+- **Input (Photo) to Translated (Van Gogh)**: This pair shows how well the model can transform a normal photo into a Van Gogh-style painting.
+- **Input (Van Gogh) to Translated (Photo)**: This pair shows the reverse transformation, converting a Van Gogh painting into a photo-like image.
+
+These transformations demonstrate the model's ability to learn and apply complex artistic styles across different domains.
