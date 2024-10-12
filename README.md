@@ -81,6 +81,8 @@ To download and set up the dataset, follow these steps:
 
 These transformations demonstrate the model's ability to learn and apply complex artistic styles across different domains.
 
+Huggingface Space: [link](https://huggingface.co/spaces/DeF0017/Style-Transfer-using-CycleGAN)
+
 ## References
 
 If you use this code or find it helpful, please consider citing the following papers and resources that were instrumental in the development of the CycleGAN style transfer project:
