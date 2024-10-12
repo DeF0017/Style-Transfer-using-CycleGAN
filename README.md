@@ -2,6 +2,8 @@
 
 This repository contains code for performing image style transfer using CycleGAN. CycleGAN is a model that enables image-to-image translation without requiring paired examples. It can be used to transfer styles between two different domains, such as converting photos to paintings or vice versa.
 
+Huggingface Space: [link](https://huggingface.co/spaces/DeF0017/Style-Transfer-using-CycleGAN)
+
 ![Photo](https://github.com/DeF0017/Style-Transfer-using-CycleGAN/blob/main/ist_cyclegan2.png)
 
 ## Table of Contents
